@@ -1,0 +1,4 @@
+(library
+ (name lib2)
+ (modules lib2)
+ (preprocess (pps ppx_blob)) )
